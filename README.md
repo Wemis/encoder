@@ -1,2 +1,2 @@
 # encoder
-Great program for encrypting text messages
+Great program for encrypting text messages and .txt files
